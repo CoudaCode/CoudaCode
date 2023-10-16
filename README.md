@@ -9,10 +9,13 @@
 <picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Dynamique et passionné par le développement.
-- Capacité à travailler en équipe et à gérer des projets.
-- Ponctuel et respect des délais.
-- Curiosité et désir d'apprendre en permanence.
+Je suis un développeur passionné, dynamique, et curieux, avec une forte aptitude à travailler en équipe et à gérer des projets. Voici ce que les autres disent de moi :
+
+- "Mamadou est incroyablement dynamique et passionné par le développement. Il trouve des solutions créatives aux problèmes et ne se contente jamais de la médiocrité."
+- "Travailler avec Mamadou est un vrai plaisir. Il est toujours à l'écoute de l'équipe, et sa capacité à gérer des projets est impressionnante. Il garde toujours un œil sur les détails."
+- "Mamadou est non seulement un excellent développeur, mais il est également très ponctuel et respecte toujours les délais. Il est un atout précieux pour tout projet."
+- "Sa curiosité insatiable et son désir constant d'apprendre font de Mamadou un apprenant actif et un chercheur passionné. Il ne cesse jamais de s'améliorer."
+
 
 <br><br>
 
