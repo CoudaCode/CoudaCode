@@ -1,6 +1,6 @@
 <h1 align="center"><b>Salut, je suis Mamadou Diarassouba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![TYPING SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777ffe&center=true&vCenter=true&width=435&lines=As-sal%C4%81mu+alaykum;Bienvenue sur mon GitHub;Développeur web et mobile full-stack;Apprenant actif / chercheur)
+![TYPING SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777ffe&center=true&vCenter=true&width=435&lines=As-sal%C4%81mu+alaykum;Welcome+to+my+github+;full-stack+web+and+mobile+developper;Active+learner+%2F+researcher)
 
 <br>
 
@@ -57,6 +57,7 @@
 
 </p>
 
+
 <br>
 <br>
 
@@ -64,10 +65,19 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Statistiques GitHub</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
 
-<div align="center">
+<div align="center" >
 
-  <img src="https://github-readme
+  <img src="https://github-readme-stats.vercel.app/api?username=CoudaCode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoudaCode &show_icons=true&locale=en&exclude_repo=nan.ci,naniens,e-store,pyshop&langs_count=8&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="CoudaCode stats languages"/>
+
+</div>
+
+<!---
+CoudaCode/CoudaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
