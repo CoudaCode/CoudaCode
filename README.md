@@ -9,13 +9,10 @@
 <picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
 
 <br>
-<!-- Atouts -->
-## 🌟 Atouts
 - Dynamique et passionné par le développement.
 - Capacité à travailler en équipe et à gérer des projets.
 - Ponctuel et respect des délais.
 - Curiosité et désir d'apprendre en permanence.
-
 
 <br><br>
 
@@ -23,13 +20,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-
-<!-- Atouts -->
-## 🌟 Atouts
-- Dynamique et passionné par le développement.
-- Capacité à travailler en équipe et à gérer des projets.
-- Ponctuel et respect des délais.
-- Curiosité et désir d'apprendre en permanence.
 
 <!-- Intérêts -->
 ## 🌱 Intérêts
