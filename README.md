@@ -77,3 +77,10 @@
 
 <!-- Statistiques GitHub -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=CoudaCode&show_icons=true&count_private=true&theme=radical)
+
+
+<!-- Statistiques de langages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoudaCode&layout=compact)
+
+<!-- Contributions GitHub -->
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CoudaCode)
