@@ -1,5 +1,5 @@
 <!-- Titre et Animation -->
-<h1 align="center">🚀 Mamadou Diarassouba - Développeur Full-Stack 🚀</h1>
+<h1 align="center"><b>Hi, I'm Mamadou Diarassouba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 </p>
@@ -77,10 +77,6 @@
 
 <!-- Statistiques GitHub -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=CoudaCode&show_icons=true&count_private=true&theme=radical)
-
-
-<!-- Statistiques de langages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoudaCode&layout=compact)
 
 <!-- Contributions GitHub -->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CoudaCode)
