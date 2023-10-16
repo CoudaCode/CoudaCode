@@ -1,5 +1,5 @@
 <!-- Titre et Animation -->
-<h1 align="center"><b>Hi, I'm Mamadou Diarassouba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+<h1 align="center"><b>Hi, I'm Mamadou Diarassouba <img src="https://media.giphy.com/media/ZpdxXk2KXQn40VWqke/giphy.gif" width="35"></b></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 </p>
