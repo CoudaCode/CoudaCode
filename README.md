@@ -1,8 +1,28 @@
-<!-- Titre et Animation -->
-<h1 align="center"><b>Hi, I'm Mamadou Diarassouba <img src="https://media.giphy.com/media/ZpdxXk2KXQn40VWqke/giphy.gif" width="35"></b></h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-</p>
+<<h1 align="center"><b>Hi , I'm Mamadou Diarassouba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+![TYPING SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777ffe&center=true&vCenter=true&width=435&lines=As-sal%C4%81mu+alaykum;Welcome+to+my+github+;full-stack+web+and+mobile+developper;Active+learner+%2F+researcher)
+
+<br>
+
+## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **A propos de Moi**
+
+<picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
+
+<br>
+<!-- Atouts -->
+## 🌟 Atouts
+- Dynamique et passionné par le développement.
+- Capacité à travailler en équipe et à gérer des projets.
+- Ponctuel et respect des délais.
+- Curiosité et désir d'apprendre en permanence.
+
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 <!-- Atouts -->
 ## 🌟 Atouts
