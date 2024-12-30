@@ -7,6 +7,9 @@
 
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **A propos de Moi**
 
+<picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
+
+<br>
 <!--
 **CoudaCode/CoudaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <h2 align="left">I code with</h2>
 
@@ -40,9 +48,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
   <img width="12" />
-  
-  
-  
 
   <!-- Frontend Skills -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
