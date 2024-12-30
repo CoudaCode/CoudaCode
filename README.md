@@ -11,25 +11,7 @@
 <picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
 
 <br>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **loca**
-
-- 🌱 I’m currently learning **loca**
-
-- 👯 I’m looking to collaborate on **loca**
-
-- 🤝 I’m looking for help with **loca**
-
-- 👨‍💻 All of my projects are available at [test](test)
-
-- 💬 Ask me about **loca**
-
-- 📫 How to reach me **couda.dm@gmail.com**
-
-- 📄 Know about my experiences [test](test)
-
-- ⚡ Fun fact **testt**
+🔭 Je travaille actuellement sur une application de location.<br>🌱 J'apprends actuellement Docker, Flutter et Golang.<br>💬 Posez-moi des questions sur Node.js, React, ou sur n'importe quoi ici.<br>⚡ Anecdote amusante : En Afrique, on dit souvent : "Quand un Africain te dit qu'il est 'à côté', il peut être à 30 minutes de route... mais il arrive, sois patient !" 😄
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -104,10 +86,25 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coudacode&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=coudacode&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coudacode&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=coudacode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
+
+<br/>
 
 ###
 
