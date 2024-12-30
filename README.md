@@ -5,7 +5,36 @@
 
 <br>
 
+
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **A propos de Moi**
+
+<picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
+
+<br>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **loca**
+
+- 🌱 I’m currently learning **loca**
+
+- 👯 I’m looking to collaborate on **loca**
+
+- 🤝 I’m looking for help with **loca**
+
+- 👨‍💻 All of my projects are available at [test](test)
+
+- 💬 Ask me about **loca**
+
+- 📫 How to reach me **couda.dm@gmail.com**
+
+- 📄 Know about my experiences [test](test)
+
+- ⚡ Fun fact **testt**
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <h2 align="left">I code with</h2>
 
