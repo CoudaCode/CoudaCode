@@ -2,9 +2,7 @@
 
 ![TYPING SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777ffe&center=true&vCenter=true&width=435&lines=As-sal%C4%81mu+alaykum;Welcome+to+my+github+;full-stack+web+and+mobile+developper;Active+learner+%2F+researcher)
 
-
 <br>
-
 
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **A propos de Moi**
 
@@ -17,6 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 <div align="left">
   <!-- Backend Skills -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -77,12 +76,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
 </div>
 
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coudacode&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -94,4 +93,3 @@
 <br/><br/>
 
 <hr/>
-
